@@ -1,0 +1,23 @@
+li{
+  list-style: none;  
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  margin: 10px;
+}
+
+ul{
+    display: flex;
+    margin-right: 20px;
+}
+
+.q1{
+    background-color: aqua;
+}
+.q2{
+    background-color: rgb(36, 34, 147);
+}
+.q3{
+    background-color: rgb(138, 44, 44);
+}
